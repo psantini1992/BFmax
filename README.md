@@ -8,5 +8,5 @@ In a Linux environment, this is how you compile and execute the code:
 3) run $\texttt{./build/main}$
 
 The code produces two txt files:
-- the one starting with $\texttt{QC}$\_$\texttt{results}$ contains the estimated DFR values
-- the one starting with $\texttt{QC}$\_$\texttt{log}$ is updated constantly, to keep track of how the simulation is proceeding
+- the one starting with $\texttt{QC}-\texttt{results}$ contains the estimated DFR values
+- the one starting with $\texttt{QC}-\texttt{log}$ is updated constantly, to keep track of how the simulation is proceeding
